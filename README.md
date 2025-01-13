@@ -16,7 +16,16 @@ This guide explains how to set up a Python backend for a website that connects t
 
 ## Steps
 
-### 1. Set up a Python Web Framework
+## 1. Set up a Python Web Framework
+
+
+### Create a virtual environment and activate it:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use .env\Scriptsctivate
+   ```
+
+
 
 #### Flask (Lightweight and Beginner-Friendly)
 Install Flask:
